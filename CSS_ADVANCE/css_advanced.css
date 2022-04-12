@@ -869,9 +869,12 @@ p {
     background-color: rgb(182, 179, 179);
     width: 600px;
     height: 60%;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
     /* margin: 10px auto; */
     align-items: center;
-    margin: 180px 290px;
+    /* margin: 180px 290px; */
     position: absolute;
 }
 
